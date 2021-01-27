@@ -18,8 +18,3 @@ yarn install or npm install
 The default port is [3000](https://localhost:3000),
 
 you can change it in index.js
-
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
