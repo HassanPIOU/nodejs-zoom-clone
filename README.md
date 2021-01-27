@@ -15,7 +15,9 @@ yarn install or npm install
  npm start
 ```
 
-The default port is [3000](https://localhost:3000)
+The default port is [3000](https://localhost:3000),
+
+you can change it in index.js
 
 
 
